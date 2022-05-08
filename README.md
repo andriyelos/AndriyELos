@@ -11,7 +11,10 @@
 ---
 
 ### Hi 🙋‍♂️,
-### I'm 24 years old Front-end , Backend  and Python Developer from Spain.
+### I'm 24 years old from Spain.
+* Learning Front-End Web Development
+* Learning Back-End Development with Python
+* Leveling up my skills with framework Django
 
 
 ### - Languages and Tools...
